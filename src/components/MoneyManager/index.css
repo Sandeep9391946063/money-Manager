@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.upperBg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+}
+.table-header {
+  display: flex;
+  flex-direction: row;
+}
+.transaction-details {
+  display: flex;
+  flex-direction: row;
+}
+.transaction-form {
+  padding: 10px;
+  margin: 10px;
+}
+.history-transaction {
+  display: flex;
+  flex-direction: row;
+}

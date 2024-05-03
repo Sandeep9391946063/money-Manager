@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.inner1 {
+  background-color: #ecfccb;
+  background-size: cover;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  border: solid 2px #84cc16;
+  border-radius: 5px;
+}
+.inner2 {
+  background-color: #cffafe;
+  background-size: cover;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  border: solid #06b6d4 2px;
+  border-radius: 5px;
+}
+.inner3 {
+  background-color: #ede9fe;
+  background-size: cover;
+  margin: 20px;
+  padding: 30px;
+  border: solid 2px #7c3aed;
+  display: flex;
+  border-radius: 5px;
+}
+.MoneyDetailsBg {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 20px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
